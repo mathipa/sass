@@ -6,5 +6,5 @@
 * Sass handles <u>media queries</u> in a better and more advanced ways than others.
 * Sass provides <u>variable handling</u>.
 * Sass <u>throws errors</u> instead of miscalculations when doing operations with units.
-* Sass is slightly more active, development speaking.
+* Sass has a more active development community.
 

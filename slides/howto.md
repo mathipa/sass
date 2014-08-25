@@ -8,7 +8,7 @@ OR
 * Installing Compass, it will already come with SASS and a CSS Pre-processor.
   * http://compass-style.org/install
 * If you only want SASS
-  *http://sass-lang.com/download.html
+  * http://sass-lang.com/download.html
 
 http://ndever.net/articles/linux/installing-sass-and-compass-ubuntu-1210-1304
 http://thesassway.com/beginner/getting-started-with-sass-and-compass

@@ -1,5 +1,28 @@
 
 # What is SASS?
 
-* SASS is a system that extends CSS and can make you more efficient and make your
-CSS more organised.
+**CSS with superpowers**
+
+* Syntactically Awesome Stylesheets
+
+
+**Superpowers +  Awesome = You.**
+
+```
+$color = black;
+  #content {
+    p {
+      padding:10px;
+      color:$color;
+      a {
+        color:$color;
+        }
+      img {
+        border:1px solid red;
+      }
+    }
+    img {
+      border:1px solid black;
+    }
+  }
+```
