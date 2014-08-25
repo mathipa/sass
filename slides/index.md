@@ -1,7 +1,6 @@
 
 # SASS and Compass
 
-### Presenter:
+### Presented by:
   *Jason M*
 
-DRUPAL MEETUP
