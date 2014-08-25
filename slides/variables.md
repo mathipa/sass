@@ -1,8 +1,7 @@
 
 # Variable Handling
 
-<pre>
-
+```
   $color:                   black;
   $font_family:             'Helvetica Neue', Arial, Helvetica, sans-serif;
   $base_orange_color:       #D8890E;
@@ -10,7 +9,6 @@
   $body_color:              #353535;
   $h1_color:                #000;
   $h2_color:                #fff;
-
 
   .my_schools {
 
@@ -21,6 +19,4 @@
       color: $base_orange_color;
     }
   }
-
-
-</pre>
+```

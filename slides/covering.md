@@ -1,5 +1,5 @@
 
-# What will cover
+# What we will cover
 
 * What is SASS?
 * What is Compass?

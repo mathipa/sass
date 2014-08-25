@@ -1,8 +1,9 @@
 
 # @extend feature
 
-<pre>
+Sass provides the @extend feature allowing you to extend a class from another one.
 
+```
   .module-a {
     color: #ffffff;
     font-size: 12px;
@@ -11,4 +12,4 @@
      @extend .module-a;
   }
 
-</pre>
+```

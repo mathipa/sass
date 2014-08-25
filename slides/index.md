@@ -2,5 +2,5 @@
 # SASS and Compass
 
 ### Presented by:
-  *Jason M*
+  *Jason Mathipa Legodi*
 
