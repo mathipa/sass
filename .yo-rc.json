@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "How will SASS make your life easier",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mathipa",
+    "githubRepository": "sass"
+  }
+}
