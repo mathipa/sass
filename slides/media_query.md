@@ -1,7 +1,7 @@
 
 ## Media Queries
 
- ![zen grid](img/grids.png "grids example ")
+ <img src="https://raw.githubusercontent.com/mathipa/sass/master/img/grids.png" alt="grids.png">
 
 ```
   @media all and (min-width: 480px) and (max-width: 959px) {
