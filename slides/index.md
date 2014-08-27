@@ -6,7 +6,7 @@
 
 
 
-  ![telamenta](img/logo.png "Telamenta logo ")
+  ![telamenta](img/logo.png " Telamenta logo")
 
 
 
