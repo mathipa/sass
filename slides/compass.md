@@ -4,6 +4,8 @@
 * Compass is a stylesheet authoring framework that makes your stylesheets and
 markup easier to build and maintain.
 
+Command: Compass watch
+
 ```
 unchanged images/icons-s34edc4e566.png
 identical css/icons-original.css
