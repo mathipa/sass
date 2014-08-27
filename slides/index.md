@@ -5,7 +5,6 @@
   *Jason Mathipa Legodi*
 
 
-
-  ![telamenta](https://raw.githubusercontent.com/mathipa/sass/master/img/logo.png " Telamenta logo")
+<img src="https://raw.githubusercontent.com/mathipa/sass/master/img/logo.png" alt="logo.png">
 
 
